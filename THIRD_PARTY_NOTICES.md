@@ -2,7 +2,7 @@
 
 ## Omarchy artwork
 
-The Omarchy logo and wordmark in `source/logo.svg`, `source/wordmark.svg`, the wallpapers, and the preview derive from Omarchy artwork. Blue Mosaic adds the tile treatment, palette, and composition.
+The Omarchy logo and wordmark in the wallpapers and preview derive from Omarchy artwork. Blue Mosaic adds the tile treatment, palette, and composition.
 
 Upstream: https://github.com/omacom/omarchy
 

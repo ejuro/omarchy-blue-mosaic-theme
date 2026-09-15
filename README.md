@@ -21,12 +21,10 @@ omarchy theme install https://github.com/ejuro/omarchy-blue-mosaic-theme
 
 ## Wallpapers
 
-Both wallpapers are **3840 × 2160**, with editable SVG sources included.
+Two **3840 × 2160** wallpapers are included.
 
 [Logo](backgrounds/01-blue-mosaic-logo-4k.png) · [Wordmark](backgrounds/02-blue-mosaic-wordmark-4k.png)
 
 ## License
 
 [MIT](LICENSE) · [Omarchy artwork attribution](THIRD_PARTY_NOTICES.md)
-
-[Development](DEVELOPMENT.md)
