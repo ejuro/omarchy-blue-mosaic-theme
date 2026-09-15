@@ -2,7 +2,9 @@
 
 A light theme for Omarchy with pale mosaic tiles, graphite-blue motifs, and a matching interface palette.
 
-![Blue Mosaic](preview.png)
+![Blue Mosaic — logo wallpaper](preview.png)
+
+![Blue Mosaic — wordmark wallpaper](preview-wordmark.png)
 
 ## Install
 
