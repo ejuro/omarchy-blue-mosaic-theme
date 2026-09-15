@@ -29,4 +29,4 @@ Both wallpapers are **3840 × 2160**, with editable SVG sources included.
 
 [MIT](LICENSE) · [Omarchy artwork attribution](THIRD_PARTY_NOTICES.md)
 
-[Development and optional setup](DEVELOPMENT.md)
+[Development](DEVELOPMENT.md)

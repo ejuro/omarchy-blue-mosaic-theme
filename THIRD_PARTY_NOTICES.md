@@ -1,10 +1,8 @@
 # Third-party notices
 
-## Omarchy artwork and optional workspace widget
+## Omarchy artwork
 
 The Omarchy logo and wordmark in `source/logo.svg`, `source/wordmark.svg`, the wallpapers, and the preview derive from Omarchy artwork. Blue Mosaic adds the tile treatment, palette, and composition.
-
-`extras/Workspaces.qml` adapts Omarchy's `shell/plugins/bar/widgets/Workspaces.qml` to read an optional focused-workspace color from the theme.
 
 Upstream: https://github.com/omacom/omarchy
 

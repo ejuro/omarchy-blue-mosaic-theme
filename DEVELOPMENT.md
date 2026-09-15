@@ -1,4 +1,4 @@
-# Development and optional setup
+# Development
 
 ## Local checkout
 
@@ -12,21 +12,7 @@ omarchy theme set "Blue Mosaic"
 
 The destination must not already exist. For publication, the repository name `omarchy-blue-mosaic-theme` installs as `blue-mosaic` through Omarchy's theme installer.
 
-## Optional workspace accent
-
-The standard workspace widget uses the bar text color for every workspace. The optional adaptation in `extras/Workspaces.qml` reads `workspaces.focused-color` from the theme. It falls back to the normal bar color for themes without that token.
-
-To use it, from this repository:
-
-```sh
-omarchy plugin clone omarchy.workspaces
-cp extras/Workspaces.qml "$HOME/.config/omarchy/plugins/$USER.workspaces/Workspaces.qml"
-omarchy restart shell
-```
-
-If you already customized a local workspace widget, merge the `foreground` binding instead of replacing your file. The theme works without this optional widget.
-
-## Development
+## Tools
 
 Rebuild the PNG wallpapers and preview from the bundled SVGs:
 
