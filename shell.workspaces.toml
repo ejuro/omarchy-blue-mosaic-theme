@@ -1,0 +1,3 @@
+# Read by the optional workspace widget in extras/Workspaces.qml.
+[workspaces]
+focused-color = "#354B67"

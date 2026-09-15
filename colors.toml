@@ -1,0 +1,38 @@
+mode = "light"
+
+accent = "#354B67"
+selection = "#E0E5EB"
+selection_foreground = "#283545"
+selection_background = "#E0E5EB"
+muted = "#62748A"
+
+background = "#FAFBFC"
+dark_background = "#F0F2F5"
+darker_background = "#E5E8ED"
+lighter_background = "#E0E5EB"
+
+foreground = "#283545"
+dark_foreground = "#62748A"
+light_foreground = "#354B67"
+bright_foreground = "#283545"
+
+hyprland_active_border = "#354B67"
+hyprland_inactive_border = "#A8B3C1"
+
+# Mosaic graphite-blue terminal and syntax palette.
+# #4B5E76 bridges the accent and muted tile shades; pale tiles are borders only.
+red = "#283545"
+green = "#354B67"
+yellow = "#4B5E76"
+orange = "#4B5E76"
+blue = "#354B67"
+magenta = "#283545"
+cyan = "#4B5E76"
+brown = "#4B5E76"
+
+bright_red = "#354B67"
+bright_green = "#4B5E76"
+bright_yellow = "#62748A"
+bright_blue = "#4B5E76"
+bright_magenta = "#354B67"
+bright_cyan = "#62748A"
